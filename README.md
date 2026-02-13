@@ -1,6 +1,6 @@
-# cca.comdesign
+# cca-comdesign.info
 
-A simpler version of cca.comdesign (previously cca.gd), using vanilla JS and Google visualization API (gviz). Originally made by Will Ruby and Chris Hamamoto. Localhost requires server to avoid CORS violation.
+A simpler version of cca-comdesign.info (previously cca.gd), using vanilla JS and Google visualization API (gviz). Originally made by Will Ruby and Chris Hamamoto. Localhost requires server to avoid CORS violation.
 
 <!--
 GitHub pages:
